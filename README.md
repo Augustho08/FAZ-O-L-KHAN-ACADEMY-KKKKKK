@@ -1,3 +1,8 @@
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00FF00&text=KHAN-DESTROYER&fontColor=000000&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
 
+```js
 javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/refs/heads/main/Raw").then(t=>t.text()).then(eval);
 ```
+#SAPORRA EM CELULAR NÃO VAI FUNCIONAR!!!!
+#PQ É O AUGUSTINHO 00 QUE FEZ O BGLH SÓ PROS VERDADEIRO USAR!!!!!!
+⚠️ 
