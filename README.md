@@ -3,6 +3,6 @@
 ```js
 javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/refs/heads/main/Raw").then(t=>t.text()).then(eval);
 ```
-#SAPORRA EM CELULAR NÃO VAI FUNCIONAR!!!!
+#SAPORRA EM CELULAR NÃO VAI FUNCIONAR!!!!⚠️⚠️
 #PQ É O AUGUSTINHO 00 QUE FEZ O BGLH SÓ PROS VERDADEIRO USAR!!!!!!
-⚠️ 
+⚠️⚠️
